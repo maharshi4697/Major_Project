@@ -1,0 +1,23 @@
+List Of Things That Are To Be Added In Output With Proper Labels:
+
+If You cannot find anything at all please revert back as soon as possible.
+
+
+1. Screenshot Of headlines.json
+
+2. Screenshot Of Final_Data_MCB.csv
+
+3. Graphs From The Following IPNB notebooks.
+
+	1.Stock Market Prediction Using LSTM Against a 1 Day Shift.ipynb
+
+	2.Stock Market Prediction Using LSTM Against a 60 Day Shift.ipynb
+
+	3.Stock Market Prediction Using LSTM And Text Analysis Against a 1 Day Shift.ipynb
+	
+	4.Deep Q Network Agent For Stock Market Prediction To Maximize Profit (CUDA).ipynb
+
+
+4. Output Screenshot of Profit Generation from Deep Q Network Agent For Stock Market Prediction To Maximize Profit (CUDA).ipynb
+
+
